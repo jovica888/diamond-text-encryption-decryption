@@ -1,4 +1,9 @@
 <?php
+/*
+* Diamond Text Encryption Decryption
+* Unbreakable encryption system by jovica888
+* Licensed under the MIT License
+*/
 $result = [];
 function generatePositions($key, $messageLength, $totalLength) {
     $positions = [];
