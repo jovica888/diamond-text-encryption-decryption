@@ -37,7 +37,9 @@
 <p>With its diamond-like durability, <strong>Diamond Text Encryption Decryption</strong> offers a formidable solution for private, secure message encryption, ensuring that confidential information remains protected within an unbreakable structure.</p>
 
 /*
+*
 * Diamond Text Encryption Decryption
 * Unbreakable encryption system by jovica888
 * Licensed under the MIT License
+* 
 */
